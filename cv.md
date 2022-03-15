@@ -12,6 +12,8 @@ I try to learn something new and repeat what i have passed, i would like to try 
 * css
 * Javascript
 * React js, Redux
+* Node js
+* Postgresql
 
 ## code examples:
 ### 6 kyu Multiples of 3 or 5
