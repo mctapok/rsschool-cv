@@ -3,7 +3,7 @@
 ## contacts: 
 - e-mail:  vektor.ct@gmail.com
 - telegram: @Solacorvi
-
+- [linkedin](linkedin.com/in/денис-гаврилов-9b5077bb)
 
 ## about me: 
 I try to learn something new and repeat what i have passed, i would like to try myself in Frontend Development, at that moment i work as an commissioning engineer in a small company, in my spare time i take courses on udemy and work on my own projects
